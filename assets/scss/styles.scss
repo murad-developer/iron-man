@@ -133,7 +133,7 @@
       opacity: 0;
       iframe {
       max-width: 900px !important;
-      height: auto !important;
+      height: 60% !important;
       outline: 0;
       }
       .close {
@@ -194,7 +194,6 @@
     .trailer {
         iframe {
             max-width: 90%;
-            height: auto;
         }
     }
 }
